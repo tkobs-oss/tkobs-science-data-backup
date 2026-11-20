@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.1-test",
+  "project": "TKOBS",
+  "dataset_id": "tkobs-hosting-sample-20261120",
+  "file": "sample-cutout.fits",
+  "bytes": 305280,
+  "sha256": "2b81377ee550e7fd5f080f417a457bcaa08549ee76e47f0072c480b252bed7d4",
+  "source_mission": "SPHEREx candidate; original provenance not yet independently verified",
+  "release": null,
+  "detector": null,
+  "epoch": null,
+  "calibrated_wavelength": null,
+  "scientific_validation": "PENDING",
+  "publication_status": "CONNECTIVITY_TEST_ONLY",
+  "url": "https://tkobs-oss.github.io/tkobs-science-data-backup/sample-cutout.fits",
+  "note": "Connectivity test only; do not use for scientific conclusions."
+}
